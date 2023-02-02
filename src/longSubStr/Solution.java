@@ -8,7 +8,6 @@ public class Solution {
                    returnStr.append(s.charAt(i));
                }
        }
-       System.out.println(returnStr);
         return returnStr.length();
 
     }
